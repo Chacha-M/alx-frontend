@@ -161,4 +161,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Charity Muteti** - [Mahiuha](https://github.com/Chacha-M)
