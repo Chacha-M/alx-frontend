@@ -161,4 +161,4 @@ Read or watch:
 ---
 
 ## Author
-* **Charity Muteti** - [Mahiuha](https://github.com/Chacha-M)
+* **Charity Muteti** - [Chacha-M](https://github.com/Chacha-M)
